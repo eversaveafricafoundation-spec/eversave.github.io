@@ -1,14 +1,12 @@
 .u-section-1 .u-sheet-1 {
   min-height: 593px;
 }
-
 .u-section-1 .u-video-1 {
   height: 563px;
   margin-top: 15px;
   margin-bottom: 15px;
   filter: brightness(0.65);
 }
-
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
     min-height: 477px;
